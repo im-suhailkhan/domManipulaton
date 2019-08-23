@@ -1,0 +1,15 @@
+#app {
+    display: flex;
+    flex-wrap: wrap;
+
+}
+#app > div {
+    height: 500px;
+    width: 30%;
+    margin: 0.3rem;
+}
+
+#app img {
+    /* height: 300px; */
+    /* width: 30%; */
+}
